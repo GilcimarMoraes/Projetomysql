@@ -19,5 +19,5 @@ As tabelas `Estado`, `Municipio`, `Cliente` e `ContaReceber` foram criadas com s
 A atividade prática foi bem-sucedida, proporcionando uma experiência valiosa no uso do MySQL para a criação e gestão de um banco de dados. As habilidades adquiridas serão úteis para futuros projetos de banco de dados.
 
 ## Anexos
-Scripts SQL utilizados estão documentados nos arquivos `criacao.sql`, `inserir.sql`, e `consulta.sql` que acompanham este relatório.
+Scripts SQL utilizados estão documentados nos arquivos `loja.sql`, `inserir.sql`, e `consulta.sql` que acompanham este relatório.
 
