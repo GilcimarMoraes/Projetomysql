@@ -10,7 +10,7 @@ As seguintes etapas foram realizadas para a construção do banco de dados:
 - População das tabelas com dados de exemplo usando comandos DML.
 - Consulta aos dados por meio de uma visão (VIEW) que filtra informações específicas.
 
-![Diagrama Entidade-Relacionamento](https://github.com/GilcimarMoraes/Projetomysql/blob/main/DER/DER%20proposto.png)
+![Diagrama Entidade-Relacionamento](https://github.com/GilcimarMoraes/Projetomysql/blob/main/Imagem%20DER/DER%20proposto.png)
 
 ## Resultados
 As tabelas `Estado`, `Municipio`, `Cliente` e `ContaReceber` foram criadas com sucesso. Três registros por tabela foram inseridos para possibilitar testes e consultas. A visão `ContasAReceberNaoPagas` foi criada para listar contas que ainda estão pendentes de pagamento.
